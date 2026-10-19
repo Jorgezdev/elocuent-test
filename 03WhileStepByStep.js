@@ -11,4 +11,4 @@ console.log(total);
 
 //we arrive at the same result using the range and sum operations, which create a collection of numbers within a specidied range and then add them together.
 console.log(suma(rango(1, 10))); // 55
-
+// warning: the range and sum operations are not built-in JavaScript functions, so they would need to be defined elsewhere in the code for this to work.
