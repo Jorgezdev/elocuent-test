@@ -8,3 +8,7 @@ while (count <= 10) {
 console.log(total);
 
 //55 
+
+//we arrive at the same result using the range and sum operations, which create a collection of numbers within a specidied range and then add them together.
+console.log(suma(rango(1, 10))); // 55
+
